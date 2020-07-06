@@ -6,13 +6,15 @@ This assistant works on Rule-Based AI and this project too in one way shows you 
 Rule-Based voice assistants work.
 
 Currently I have included only the functionality of searching for anything from
-`wikipedia` to show developers new to this field that how a function would work
+`wikipedia` to show developers who are new to this field that how a function would work
 so that they can build their own functions. 
 
 I insist the developers to implement new and innovative `functions` for this
-assistant because it is `dumb` and only work what you implement. Implementation
-of `functions` by developers who are quite getting started would prove to be
-beneficial for them so go on with it.
+assistant because it is `dumb` and would only work on the `functions` you
+implement.
+
+Implement your own `functions` and submit them as a PR to make this assistant more
+and more powerful.
 
 Reach me out if you are not getting idea of what to implement as I have also
 made a personal assistant for me which has functions like -
