@@ -1,0 +1,8 @@
+tkinter
+pillow
+speech_recognition
+pyttsx3
+pyaudio
+pygame
+wikipedia
+webbrowser
