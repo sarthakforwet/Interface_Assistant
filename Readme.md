@@ -16,7 +16,7 @@ beneficial for them so go on with it.
 
 Reach me out if you are not getting idea of what to implement as I have also
 made a personal assistant for me which has functions like -
-- Sending SMS to people. (Used Fast2SMS)
+- Sending SMS to people. (Used [Fast2SMS](https://www.fast2sms.com/))
 - Sending mail to people.
 - Opening Games of my choice.
 - Playing my favourite music playlist.
