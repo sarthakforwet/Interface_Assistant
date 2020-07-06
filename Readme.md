@@ -24,4 +24,4 @@ made a personal assistant for me which has functions like -
 - Search for any youtube videos.
 
 
-- Change the name `Sarthak` to your name in the Script to make your assistant greet to you.
+Change the name `Sarthak` to your name in the Script to make your assistant greet to you.
